@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "709F81CC-8E34-486C-B466-992E2E4BD233"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC018BF3-1DAB-4448-A39A-1B32BE3A801A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Services/StorageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "saveToCoreData(currentWeather:weatherForecast:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2973A97-9128-4A35-8815-D2B55D127AAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2973A97-9128-4A35-8815-D2B55D127AAE - 1af69333c59c11b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "A2973A97-9128-4A35-8815-D2B55D127AAE - 1af69333c59c11b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "A2973A97-9128-4A35-8815-D2B55D127AAE - 1af69333c59c11b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9B381EB-FFDD-4783-AD1A-26C185819419"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9B381EB-FFDD-4783-AD1A-26C185819419 - 1af69333c59c1194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "B9B381EB-FFDD-4783-AD1A-26C185819419 - 1af69333c59c1194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "B9B381EB-FFDD-4783-AD1A-26C185819419 - 1af69333c59c1194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "228B8A16-B0C4-40D5-8BE0-E4538BE84DE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "228B8A16-B0C4-40D5-8BE0-E4538BE84DE1 - 1af69333c59c11eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "228B8A16-B0C4-40D5-8BE0-E4538BE84DE1 - 1af69333c59c11eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "228B8A16-B0C4-40D5-8BE0-E4538BE84DE1 - 1af69333c59c11eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6785816-F1E7-4BC3-855C-9AD314A741B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6785816-F1E7-4BC3-855C-9AD314A741B7 - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "C6785816-F1E7-4BC3-855C-9AD314A741B7 - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "C6785816-F1E7-4BC3-855C-9AD314A741B7 - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E60F64F-8438-4F09-ABB6-D5E2209CEBEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E60F64F-8438-4F09-ABB6-D5E2209CEBEE - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "9E60F64F-8438-4F09-ABB6-D5E2209CEBEE - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "656">
+               </Location>
+               <Location
+                  uuid = "9E60F64F-8438-4F09-ABB6-D5E2209CEBEE - 1af69333c59c1629"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "732">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AFEF229-AD4D-4C70-B18A-A2E61BA446BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AFEF229-AD4D-4C70-B18A-A2E61BA446BE - 1af69333c59c1608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "0AFEF229-AD4D-4C70-B18A-A2E61BA446BE - 1af69333c59c1608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "964">
+               </Location>
+               <Location
+                  uuid = "0AFEF229-AD4D-4C70-B18A-A2E61BA446BE - 1af69333c59c1608"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88B7DF2B-178C-4E5D-8804-372F59B895CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88B7DF2B-178C-4E5D-8804-372F59B895CB - 1af69333c59c166f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "88B7DF2B-178C-4E5D-8804-372F59B895CB - 1af69333c59c166f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "900">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "201FCA41-4F93-4ABA-869B-B156556AFE96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "201FCA41-4F93-4ABA-869B-B156556AFE96 - 1af69333c59c164e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+               <Location
+                  uuid = "201FCA41-4F93-4ABA-869B-B156556AFE96 - 1af69333c59c16ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "201FCA41-4F93-4ABA-869B-B156556AFE96 - 1af69333c59c16ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F69CA663-848C-49C5-9C5D-E42DD68F9E44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F69CA663-848C-49C5-9C5D-E42DD68F9E44 - 1af69333c59c168c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "F69CA663-848C-49C5-9C5D-E42DD68F9E44 - 1af69333c59c16ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "948">
+               </Location>
+               <Location
+                  uuid = "F69CA663-848C-49C5-9C5D-E42DD68F9E44 - 1af69333c59c16ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "952">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDB5274F-468D-4E33-83E3-6E4802A81305"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDB5274F-468D-4E33-83E3-6E4802A81305 - 1af69333c59c168c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "DDB5274F-468D-4E33-83E3-6E4802A81305 - 1af69333c59c168c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "DDB5274F-468D-4E33-83E3-6E4802A81305 - 1af69333c59c168c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "984">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17229351-3804-4754-9190-BBC6C82920B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17229351-3804-4754-9190-BBC6C82920B4 - 1af69333c59c16e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+               <Location
+                  uuid = "17229351-3804-4754-9190-BBC6C82920B4 - 1af69333c59c16c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "17229351-3804-4754-9190-BBC6C82920B4 - 1af69333c59c16c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E02062C-DCAF-4041-8B3E-0D828CC0BABF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E02062C-DCAF-4041-8B3E-0D828CC0BABF - 1af69333c59c1721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "1E02062C-DCAF-4041-8B3E-0D828CC0BABF - 1af69333c59c16c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "1E02062C-DCAF-4041-8B3E-0D828CC0BABF - 1af69333c59c16c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86E476BE-C6DA-44F8-BB4A-D8A1943091EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "86E476BE-C6DA-44F8-BB4A-D8A1943091EC - 1af69333c59c1721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1428">
+               </Location>
+               <Location
+                  uuid = "86E476BE-C6DA-44F8-BB4A-D8A1943091EC - 1af69333c59c1721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+               <Location
+                  uuid = "86E476BE-C6DA-44F8-BB4A-D8A1943091EC - 1af69333c59c1721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "694E2F86-341C-4986-ABA5-9C9EC6E76DC8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "694E2F86-341C-4986-ABA5-9C9EC6E76DC8 - 1af69333c59c1700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "694E2F86-341C-4986-ABA5-9C9EC6E76DC8 - 1af69333c59c1700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "694E2F86-341C-4986-ABA5-9C9EC6E76DC8 - 1af69333c59c1700"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "1320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5108E5D2-8115-4192-BBB1-E9E49AA36CEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5108E5D2-8115-4192-BBB1-E9E49AA36CEC - 1af69333c59c1767"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "1624">
+               </Location>
+               <Location
+                  uuid = "5108E5D2-8115-4192-BBB1-E9E49AA36CEC - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "5108E5D2-8115-4192-BBB1-E9E49AA36CEC - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C55CEB43-70C8-4D24-895C-27E3C09D3F7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C55CEB43-70C8-4D24-895C-27E3C09D3F7C - 1af69333c59c1784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2176">
+               </Location>
+               <Location
+                  uuid = "C55CEB43-70C8-4D24-895C-27E3C09D3F7C - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "C55CEB43-70C8-4D24-895C-27E3C09D3F7C - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "053407FD-952C-4B4F-830E-D1E16709C2E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "053407FD-952C-4B4F-830E-D1E16709C2E0 - 1af69333c59c1784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2176">
+               </Location>
+               <Location
+                  uuid = "053407FD-952C-4B4F-830E-D1E16709C2E0 - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1872">
+               </Location>
+               <Location
+                  uuid = "053407FD-952C-4B4F-830E-D1E16709C2E0 - 1af69333c59c17a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD103488-B169-4302-9981-BE9A11F49BE1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp/Main/Cells/ForecastCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "covertDateToDay(text:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BD103488-B169-4302-9981-BE9A11F49BE1 - 1af69333c59c1784"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2176">
+               </Location>
+               <Location
+                  uuid = "BD103488-B169-4302-9981-BE9A11F49BE1 - 1af69333c59c17db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1928">
+               </Location>
+               <Location
+                  uuid = "BD103488-B169-4302-9981-BE9A11F49BE1 - 1af69333c59c17db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp.ForecastCell.covertDateToDay(text: Swift.String) -&gt; Swift.String"
+                  moduleName = "WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/testForDifferentCompanies/Drum&apos;N&apos;Code/WeatherApp/WeatherApp/Main/Cells/ForecastCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1932">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
